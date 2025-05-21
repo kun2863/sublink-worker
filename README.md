@@ -72,8 +72,8 @@ For detailed API documentation, please refer to [APIDoc.md](/docs/APIDoc.md)
 
 ### 2025-05-02
 
-- Automatic renaming is now applied when proxies with the same name exist ([#175](https://github.com/7Sageer/sublink-worker/pull/175))
-- Fixed DNS configuration for Singbox ([#174](https://github.com/7Sageer/sublink-worker/pull/174))
+- Automatic renaming is now applied when proxies with the same name exist ([#175](https://github.com/kun2863/sublink-worker/pull/175))
+- Fixed DNS configuration for Singbox ([#174](https://github.com/kun2863/sublink-worker/pull/174))
 
 ## 🔧 Project Structure
 
